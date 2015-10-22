@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Megogo</string>
+    <string name="app_name">WebViewExample</string>
     <string name="loading">Loading ...</string>
     <string name="loading_failure">No Network!</string>
     <string name="network_not_available">Network is not available!</string>
