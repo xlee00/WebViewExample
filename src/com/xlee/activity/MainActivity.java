@@ -139,6 +139,7 @@ public class MainActivity extends Activity {
         if (null != mJumpingBeans) {
             mJumpingBeans.stopJumping();
         }
+        super.onPause();
     }
 
     @Override
