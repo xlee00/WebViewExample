@@ -1,2 +1,0 @@
-# WebViewExample
-WebViewExample for eclipse

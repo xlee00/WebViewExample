@@ -1,10 +1,11 @@
 package com.xlee.activity;
 
 /**
- *MainActivity.java[V 1.0.0]
- *classes :  
+ * MainActivity.java[V 1.0.0]
+ * classes :
  * 李志华 Create at 22 Oct 2015 16:00:10
  */
+
 import com.xlee.eric.JumpingBeans;
 import com.xlee.eric.Network;
 import com.xlee.eric.webViewExample.R;
@@ -25,15 +26,14 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * 
- * 
  * @author 李志华 <br/>
- *         create at 22 Oct 2015 16:00:10
+ * create at 22 Oct 2015 16:00:10
  */
 public class MainActivity extends Activity {
     private static final String TAG = "MainActivity";
 
     private static final String WEBURL = "http://xlee.sinaapp.com";
+//    private static final String WEBURL = "https://www.baidu.com/";
     private static final int TEXT_SIZE = 100;// px
     private static final int DISMISS_LOADING_PAGE_PROGRESS = 60;
     // private static final int AUTO_EXIT_TIME = 5000;// 5s
